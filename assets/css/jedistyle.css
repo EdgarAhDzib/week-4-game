@@ -1,0 +1,44 @@
+body {
+background-image: url("../images/saberclash.png");
+background-size: cover;
+color: #ffffff;
+text-align: center;
+}
+
+#attack, #reset {
+	color: black;
+	font-size: 300%;
+}
+
+.playMusic, .pauseMusic {
+	color: black;
+	font-size: 150%;
+}
+
+.jediPic {
+	max-height: 150px;
+	max-width: 150px;
+	margin: auto;
+	border: solid;
+	border-width: 3px;
+}
+
+.jediWindow {
+	width: 250px;
+	overflow: auto;
+	margin: auto;
+	text-align: center;
+}
+
+#firstRow {
+	position: relative;
+	vertical-align:middle;
+	display: inline-block;
+}
+
+/*
+Angled title in Photoshop!
+Background: Lightsaber clash, perhaps MPEG?
+music: Duel of the Fates;
+DIVs for Jedi should have border (perhaps green for Jedi, red for Sith)
+*/

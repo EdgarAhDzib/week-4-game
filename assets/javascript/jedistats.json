@@ -1,0 +1,34 @@
+{
+var jedi = [{
+	key: "obiwan",
+	name: "Obi-Wan Kenobi",
+	hitpoints: 220,
+	attack: 17,
+	image: "Ben_Kenobi.png",
+	quote: "Who's the more foolish, the fool or the fool who follows him?"
+},
+{
+	key: "luke",
+	name: "Luke Skywalker",
+	hitpoints: 210,
+	attack: 19,
+	image: "luke-skywalker-evil-pic.jpg",
+	quote: "It's your choice, but I warn you not to underestimate my power."
+},
+{
+	key: "darthmaul",
+	name: "Darth Maul",
+	hitpoints: 230,
+	attack: 14,
+	image: "Darth_Maul.png",
+	quote: "At last we will reveal ourselves to the Jedi! At last we will have our revenge."
+},
+{
+	key: "sidious",
+	name: "Darth Sidious",
+	hitpoints: 240,
+	attack: 13,
+	image: "DarthSidiousWallpaper.jpg",
+	quote: "Everything is proceeding as I have foreseen it!"
+}]
+}
